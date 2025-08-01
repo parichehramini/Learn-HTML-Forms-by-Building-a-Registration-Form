@@ -1,51 +1,36 @@
-# 📝 Registration Form
+# Registration Form 📝
 
-A responsive and accessible registration form built using semantic HTML.
+A simple and responsive registration form built with **HTML** and **CSS**, created as part of the FreeCodeCamp tutorial.
 
-This project is part of the [FreeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/). It includes essential form elements and best practices for accessibility and user experience.
+## 📋 Features
 
----
+- Collects user's:
+  - First name
+  - Last name
+  - Email
+  - Password
+  - Account type
+  - Age
+  - Bio
+  - Profile picture
+- Styled with a dark theme
+- Fully responsive layout
 
-## 📌 Features
+## 🚀 Technologies Used
 
-- Semantic HTML structure
-- Fieldsets and labels
-- Input types: `text`, `email`, `password`, `radio`, `checkbox`
-- Submit button
-- Accessibility best practices
-- Linked terms and conditions
+- HTML5
+- CSS3 (custom styling)
 
----
+## 🔗 Demo
 
-## 🧪 What I Learned
+This form is designed to submit data to:  
+`https://register-demo.freecodecamp.org`
 
-- How to group related form inputs using `<fieldset>` and `<legend>`
-- How to associate `<label>`s with form inputs using the `for` and `id` attributes
-- The importance of using the right input `type` for better accessibility and validation
-- Linking and styling terms of service within forms
+## 📂 Files
 
----
-
-## 🔗 Live Preview
-
-_This project is a learning exercise and may not have a live version yet._
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5 only
+- `index.html` – main structure of the form  
+- `styles.css` – styling and layout of the form
 
 ---
 
-## 📚 Resources
-
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [MDN Web Docs - HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
-
----
-
-## 💡 Author
-
-Made with 💙 by [Your Name Here]
-
+> Created for practice purposes only.
