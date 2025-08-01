@@ -21,6 +21,10 @@ A simple and responsive registration form built with **HTML** and **CSS**, creat
 - HTML5
 - CSS3 (custom styling)
 
+## 🖼️ Preview
+<img width="365" height="592" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/699232d6-1bd7-4c02-8ee8-c89eb1e58f25" />
+
+
 ## 🔗 Demo
 
 This form is designed to submit data to:  
